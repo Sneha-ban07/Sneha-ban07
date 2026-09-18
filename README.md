@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sneha 👋
 
-<!--
-**Sneha-ban07/Sneha-ban07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | React.js | TypeScript | MERN**
 
-Here are some ideas to get you started:
+I'm a Software Engineer with experience building scalable, client-facing web applications using **React.js, TypeScript, JavaScript, and modern frontend technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+**State Management:** Redux, Redux Toolkit, TanStack Query
+**Backend:** Node.js, Express.js, REST APIs
+**Database:** MongoDB, MySQL
+**Tools:** Git, Jenkins, Jira, Docker
+
+### 🚀 Currently Exploring
+
+* Full-stack development with MERN
+* Generative AI & AI Agents
+* RAG, LLMs & Vector Databases
+* Building practical projects with modern web technologies
+
+### 📌 Featured Projects
+
+* 🎬 **Movie Explorer** — React + TypeScript + Redux Toolkit + RTK Query
+* ✅ **Teamflow** — Node.js + Express.js + MongoDB
+* 🤖 **UdaPlay** — AI-powered Game Research Agent
+
+### 📫 Let's Connect
+
+I'm always interested in learning, building, and collaborating on interesting projects.
+
+**Thanks for visiting my profile!** ⭐
